@@ -10,6 +10,7 @@ public class a {
 	private PrintWriter out;
 	private Scanner in;
 	private String testCase = "A-large-practice";
+	//private String testCase = "A-small-practice";
 	
 	public static void main(String[] args) throws Exception {
 		long startTime = System.nanoTime();
