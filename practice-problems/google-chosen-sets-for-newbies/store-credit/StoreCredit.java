@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-public class A {
+public class StoreCredit {
 	private PrintWriter out;
 	private Scanner in;
 	private String testCase = "A-large-practice";
@@ -14,7 +14,7 @@ public class A {
 	
 	public static void main(String[] args) throws Exception {
 		long startTime = System.nanoTime();
-		new A().solve();
+		new StoreCredit().solve();
 		long endTime = System.nanoTime();
 		long durationInMs = TimeUnit.MILLISECONDS.convert((endTime - startTime), TimeUnit.NANOSECONDS);
 		System.out.println("Running Time : "+ durationInMs +" milliseconds"); 
