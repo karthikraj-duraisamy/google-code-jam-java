@@ -11,6 +11,6 @@ https://code.google.com/codejam/contests.html
 
 Goto http://go-hero.net/jam for more convenient way to look into solutions based on author,country and language. 
 
-Everyone is welcomed to discuss about the feasible use of methods and algorithms for the solutions.
+Everyone is welcome to discuss about the feasible use of methods and algorithms for the solutions.
 
  
